@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+MERGED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+MERGED from [:fluttertoast] /Users/b201903148/Desktop/Workspace/photos-sharing/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/b201903148/Desktop/Workspace/photos-sharing/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [:path_provider] /Users/b201903148/Desktop/Workspace/photos-sharing/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_sign_in] /Users/b201903148/Desktop/Workspace/photos-sharing/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/3784149d4f0aea795df37caa219866cf/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5fd0bbaa42519c11b153a96424bd1146/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/3690eaf54c9c769c5b742b8f9da07842/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/875d7db10c2845f6660783d163c99626/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c9c151d2cf23e24240d70fbf28eb5718/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7fdf2fdf1463fff0788d2dc47623547d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6cfe9ee4b72785fd9b5792222c9ac194/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/866289f982e0c4d66c95e8b02521e3ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/433d00b202b43e22c8beb1af5be36449/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/45bca6095e824d6c8b18b6e1b28c08bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/63329b1d7edce45a373b6a2407cb4dd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/29abacadef76974cd49c1b132fae3541/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff54b6dd47d1ba0bcc6e83975634fe73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0fc43bcbda2d90acf8c253f6e09e461e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/07e3c06bb56c0e62543e5ea3a5385f74/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f4aa6608133a32410b67e51b2a410f39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/41816e99f1262652d595ae92fe659bd4/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/58eb8ae0c3bb562e2fa7247fef53c4b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/0ee2d9b5002a4dd12363baf1e7649fb9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aec0e052570a2bf5fc121370f3040cf9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5f6f6caa065ce6e45ec892e3bdca4b8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/169762ff34c8870b5f6a0fc70e0f2444/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/618724bf9e17cee02ac5b84aa5b17e79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/293a8d6bd04e7493d1474dfe08423ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dcb2711803ff0e46faa92ea572b365e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94067db1242dab7fb52a4ece24b6490d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2f3ce5eda083e607387879850eb2fa98/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml:17:1-23:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml:17:1-23:12
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml:17:1-23:12
+	package
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:18:5-48
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:25:5-48:19
+MERGED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/3690eaf54c9c769c5b742b8f9da07842/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/3690eaf54c9c769c5b742b8f9da07842/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/41816e99f1262652d595ae92fe659bd4/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/41816e99f1262652d595ae92fe659bd4/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:27:9-37
+	android:icon
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:28:9-43
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:26:9-57
+activity#com.google.codelab.photos.sharing.MainActivity
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:29:9-47:20
+	android:launchMode
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:31:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:34:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:35:13-55
+	android:configChanges
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:33:13-144
+	android:theme
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:32:13-47
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:30:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:40:13-42:40
+	android:value
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:42:17-37
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:41:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml:45:27-74
+uses-sdk
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+MERGED from [:fluttertoast] /Users/b201903148/Desktop/Workspace/photos-sharing/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:fluttertoast] /Users/b201903148/Desktop/Workspace/photos-sharing/build/fluttertoast/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/b201903148/Desktop/Workspace/photos-sharing/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/b201903148/Desktop/Workspace/photos-sharing/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/b201903148/Desktop/Workspace/photos-sharing/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/b201903148/Desktop/Workspace/photos-sharing/build/path_provider/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/b201903148/Desktop/Workspace/photos-sharing/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/b201903148/Desktop/Workspace/photos-sharing/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/3784149d4f0aea795df37caa219866cf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/3784149d4f0aea795df37caa219866cf/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5fd0bbaa42519c11b153a96424bd1146/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/5fd0bbaa42519c11b153a96424bd1146/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/3690eaf54c9c769c5b742b8f9da07842/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/3690eaf54c9c769c5b742b8f9da07842/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/875d7db10c2845f6660783d163c99626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/875d7db10c2845f6660783d163c99626/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c9c151d2cf23e24240d70fbf28eb5718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/c9c151d2cf23e24240d70fbf28eb5718/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7fdf2fdf1463fff0788d2dc47623547d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/7fdf2fdf1463fff0788d2dc47623547d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6cfe9ee4b72785fd9b5792222c9ac194/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/6cfe9ee4b72785fd9b5792222c9ac194/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/866289f982e0c4d66c95e8b02521e3ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/866289f982e0c4d66c95e8b02521e3ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/433d00b202b43e22c8beb1af5be36449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/433d00b202b43e22c8beb1af5be36449/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/45bca6095e824d6c8b18b6e1b28c08bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/45bca6095e824d6c8b18b6e1b28c08bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/63329b1d7edce45a373b6a2407cb4dd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/63329b1d7edce45a373b6a2407cb4dd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/29abacadef76974cd49c1b132fae3541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/29abacadef76974cd49c1b132fae3541/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff54b6dd47d1ba0bcc6e83975634fe73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ff54b6dd47d1ba0bcc6e83975634fe73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0fc43bcbda2d90acf8c253f6e09e461e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/0fc43bcbda2d90acf8c253f6e09e461e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/07e3c06bb56c0e62543e5ea3a5385f74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/07e3c06bb56c0e62543e5ea3a5385f74/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f4aa6608133a32410b67e51b2a410f39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/f4aa6608133a32410b67e51b2a410f39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/8bd437510879c6b951fa37b5f0dfb251/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/41816e99f1262652d595ae92fe659bd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/41816e99f1262652d595ae92fe659bd4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/58eb8ae0c3bb562e2fa7247fef53c4b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/58eb8ae0c3bb562e2fa7247fef53c4b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/0ee2d9b5002a4dd12363baf1e7649fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/0ee2d9b5002a4dd12363baf1e7649fb9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aec0e052570a2bf5fc121370f3040cf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/aec0e052570a2bf5fc121370f3040cf9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5f6f6caa065ce6e45ec892e3bdca4b8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5f6f6caa065ce6e45ec892e3bdca4b8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/169762ff34c8870b5f6a0fc70e0f2444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/169762ff34c8870b5f6a0fc70e0f2444/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/618724bf9e17cee02ac5b84aa5b17e79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/618724bf9e17cee02ac5b84aa5b17e79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/293a8d6bd04e7493d1474dfe08423ff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/293a8d6bd04e7493d1474dfe08423ff5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dcb2711803ff0e46faa92ea572b365e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/dcb2711803ff0e46faa92ea572b365e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94067db1242dab7fb52a4ece24b6490d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/94067db1242dab7fb52a4ece24b6490d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2f3ce5eda083e607387879850eb2fa98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/2f3ce5eda083e607387879850eb2fa98/AndroidManifest.xml:20:5-44
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml:22:5-66
+MERGED from [:google_sign_in] /Users/b201903148/Desktop/Workspace/photos-sharing/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /Users/b201903148/Desktop/Workspace/photos-sharing/build/google_sign_in/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/b201903148/Desktop/Workspace/photos-sharing/android/app/src/debug/AndroidManifest.xml:22:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/b201903148/Desktop/Workspace/photos-sharing/build/image_picker/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-67
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/27cea1e24e6a701fe81e75b2fa40bff1/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/61abe08d848ff5da1263fdae930feda5/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/b201903148/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/d8161e4edf60d5f6f8c8f3a934d668a0/AndroidManifest.xml:24:13-58
